@@ -1,3 +1,3 @@
 # parnu
 
-ilus
+vaga ilus
